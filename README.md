@@ -75,3 +75,6 @@ A summary of some findings from the analysis:
 
 The main limitation of this project was the fact that the "percentage laid off" column was largely useless to me without having each company's workforce total at the time of the layoffs within the dataset. Therefore, I was only able to use that column when it was 1, as that meant the entire workforce was laid off.
 
+### From Here
+The main goal of this project was just to push my SQL ability to its limits. It is still possible to load any of my resulting datasets into Tableau or Pandas to get some solid visualizations that represent the data, and that may be a short addition to this project in the future. However, for now, I've accomplished what I set out to do.
+
