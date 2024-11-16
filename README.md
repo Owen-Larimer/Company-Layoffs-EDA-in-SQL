@@ -60,7 +60,6 @@ FROM Company_Year_Rank
 WHERE Ranking <= 5;
 ```
 
-
 ### Findings
 A summary of some findings from the analysis:
 1. The most laid off at a time was 12000 people.
@@ -72,5 +71,7 @@ A summary of some findings from the analysis:
 7. Google had the most laid off at one time at 12000, about 6% of it's entire workforce
 8. Rankings for top 5 company layoffs for each year within the dataset (layoff rankings).
 
+### Limitations
 
+The main limitation of this project was the fact that the "percentage laid off" column was largely useless to me without having each company's workforce total at the time of the layoffs within the dataset. Therefore, I was only able to use that column when it was 1, as that meant the entire workforce was laid off.
 
