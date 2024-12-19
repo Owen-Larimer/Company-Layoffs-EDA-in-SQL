@@ -62,14 +62,13 @@ WHERE Ranking <= 5;
 
 ### Findings
 A summary of some findings from the analysis:
-1. The most laid off at a time was 12000 people.
-2. Well over 100 companies laid off their entire workforce.
-3. Consumer and Retail industries had by far the most layoffs.
-4. The US had by far the most amount of people laid off.
-5. A total of 378689 people were laid off (rolling total).
-6. Amazon had the most employees laid off at 18150 total.
-7. Google had the most laid off at one time at 12000, about 6% of it's entire workforce.
-8. Rankings for top 5 company layoffs for each year within the dataset (layoff rankings).
+1. Well over 100 companies laid off their entire workforce.
+2. Consumer and Retail industries had by far the most layoffs.
+3. The US had by far the most amount of people laid off.
+4. A total of 378689 people were laid off (rolling total).
+5. Amazon had the most employees laid off at 18150 total.
+6. Google had the most laid off at one time at 12000, about 6% of it's entire workforce.
+7. Rankings for top 5 company layoffs for each year within the dataset (layoff rankings).
 
 ### Limitations
 
